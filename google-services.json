@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "415661923255",
+    "firebase_url": "https://signin-6becb.firebaseio.com",
+    "project_id": "signin-6becb",
+    "storage_bucket": "signin-6becb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415661923255:android:b1792b6680d162ed",
+        "android_client_info": {
+          "package_name": "com.astronout.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875074332559-7sf2o0g4u746f0f1prme546hmt9hb3vp.apps.googleusercontent.com",
+
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astronout.googlesignin",
+            "certificate_hash": "6bffebab409170114afe61097635fa0a3cf23fd7"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpDjXGl5QboCIQE0I3JEngoXPh9Q79n5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875074332559-7sf2o0g4u746f0f1prme546hmt9hb3vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
